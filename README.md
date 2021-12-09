@@ -1,3 +1,3 @@
 # Demo
  
-learning to commit
+learning to commit.
